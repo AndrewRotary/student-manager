@@ -1,0 +1,60 @@
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+		 http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+  <display-name>Archetype Created Web Application</display-name>
+
+  <servlet>
+    <servlet-name>StudentController</servlet-name>
+    <servlet-class>com.practica.controller.StudentController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>StudentController</servlet-name>
+    <url-pattern>/StudentController</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>addStudentController</servlet-name>
+    <servlet-class>com.practica.controller.addStudentController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>addStudentController</servlet-name>
+    <url-pattern>/addStudentController</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>editLibrarystatus</servlet-name>
+    <servlet-class>com.practica.controller.editLibrarystatus</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>editLibrarystatus</servlet-name>
+    <url-pattern>/editLibrarystatus</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>editStudent</servlet-name>
+    <servlet-class>com.practica.controller.editStudent</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>editStudent</servlet-name>
+    <url-pattern>/editStudent</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>addMark</servlet-name>
+    <servlet-class>com.practica.controller.addMark</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>addMark</servlet-name>
+    <url-pattern>/addMark</url-pattern>
+  </servlet-mapping>
+
+  <jsp-config>
+    <jsp-property-group>
+      <url-pattern>*.jsp</url-pattern>
+      <el-ignored>false</el-ignored>
+    </jsp-property-group>
+  </jsp-config>
+
+</web-app>
