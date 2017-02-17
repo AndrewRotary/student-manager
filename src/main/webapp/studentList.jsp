@@ -16,7 +16,7 @@
 <body>
 <div class="col-xs-10 col-xs-offset-1 wr-main">
     <h1>Search Student by:</h1>
-    <form action="${pageContext.request.contextPath}/Search" method="post" class="row">
+    <form action="${pageContext.request.contextPath}/StudentController" method="get" class="row">
         <div class="col-xs-6">
             <input type="hidden" name="id" value="<c:out value="${student.id}"></c:out>"/>
             <%--<div class="form-group ">--%>
@@ -32,6 +32,7 @@
             <div class="form-group ">
                 <label>Group nr. </label>
                 <select name="group" id="group" class="select-student">
+                    <option disabled selected>none</option>
                     <c:forEach items="${groups}" var="group">
                         <%--<option value="<c:out value="${group.id}"/>"><c:out value="${group.name}"/></option>--%>
                         <option value="<c:out value="${group.id}"/>">${group.name}</option>
@@ -44,7 +45,7 @@
                 <input type="radio" CLASS="radio" id="radio" name="gender" value="Female"> Female
                 <input type="radio" CLASS="radio" id="radio" name="gender" value="All"> All
             </div>
-            <input type="submit" value="Reset" class="btn-student mt-25">
+            <a href="${pageContext.request.contextPath}/StudentController" class="btn-student mt-25">Reset</a>
         </div>
         <div class="col-xs-6">
             <div class="form-group ">
@@ -58,6 +59,7 @@
             <div class="form-group">
                 <label for="">Discipline</label>
                 <select name="discipline" id="" class="select-student">
+                    <option selected disabled>none</option>
                     <c:forEach items="${disciplines}" var="discipline">
                         <option value="<c:out value="${discipline.id}"/>"><c:out value="${discipline.title}"></c:out> </option>
                     </c:forEach>
@@ -66,7 +68,7 @@
             <div class="form-group ">
                 <label>Total Average: </label> <input class="input-student form-control" path="" name="average" value=""/>
             </div>
-            <input type="submit" value="Search" class="btn-student mt-25">
+            <input type="submit" value="Search" name="search" class="btn-student mt-25">
         </div>
     </form>
     <div class="row">
