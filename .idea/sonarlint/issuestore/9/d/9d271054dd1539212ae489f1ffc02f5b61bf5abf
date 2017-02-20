@@ -1,0 +1,21 @@
+
+dsquid:S1192"JDefine a constant instead of duplicating this literal "id_person" 3 times.(îí…¸ýÿÿÿÿ
+Esquid:S1481"0Remove this unused "whereClause" local variable.(Ÿí«‘
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„™®†
+-squid:S2095"Close this "Connection".(ËÚ¬Ð
+esquid:S1192"KDefine a constant instead of duplicating this literal "image_name" 3 times.(ùšŽûÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆý™ñ
+]squid:S1192"IDefine a constant instead of duplicating this literal "id_group" 3 times.(ËÂÛn
+2squid:S2095"Close this "Connection".(Ñ÷ú†úÿÿÿÿ
+-squid:S2095"Close this "Connection".(ÚÃÃÌ
+[squid:S1192"GDefine a constant instead of duplicating this literal "gender" 3 times.(Âº 
+_squid:S1192"KDefine a constant instead of duplicating this literal "first_name" 3 times.(¸ˆõ
+esquid:S1192"KDefine a constant instead of duplicating this literal "id_address" 3 times.(ÑÔäƒøÿÿÿÿ
+dsquid:S1192"JDefine a constant instead of duplicating this literal "last_name" 3 times.(ïƒª‹úÿÿÿÿ
+rsquid:S1192"XDefine a constant instead of duplicating this literal "id_library_subscription" 3 times.(Ú†žûýÿÿÿÿ
+2squid:S2095"Close this "Connection".(÷úýÿÿÿÿ
+2squid:S2095"Close this "Connection".(ê†¥¶øÿÿÿÿ
+ksquid:S1192"VDefine a constant instead of duplicating this literal "calculate_scholarship" 3 times.(ó½åŠ
+\squid:S1192"GDefine a constant instead of duplicating this literal "status" 3 times.(©Ý€¼
+-squid:S2095"Close this "Connection".(µŒÌé
+Tsquid:S1854"?Remove this useless assignment to local variable "whereClause".(Ÿí«‘

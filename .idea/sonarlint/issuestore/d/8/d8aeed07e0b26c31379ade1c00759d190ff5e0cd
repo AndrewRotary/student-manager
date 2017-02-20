@@ -1,0 +1,32 @@
+
+@squid:S1989"&Add a "try/catch" block for "valueOf".(‘¼§œıÿÿÿÿ
+;squid:S1989"'Add a "try/catch" block for "parseInt".(”§ü[
+@squid:S1989"&Add a "try/catch" block for "valueOf".(ÏêúÊøÿÿÿÿ
+@squid:S1989"&Add a "try/catch" block for "getPart".(ÿ­Ÿ—øÿÿÿÿ
+@squid:S1989"&Add a "try/catch" block for "getPart".(ÿ­Ÿ—øÿÿÿÿ
+=squid:S1989"(Add a "try/catch" block for "getWriter".(‰œÜ•
+Gsquid:S1989"-Add a "try/catch" block for "getInputStream".(Ú®ˆĞÿÿÿÿÿ
+=squid:S1989"#Add a "try/catch" block for "read".(À°ªıÿÿÿÿ
+9squid:S1989"$Add a "try/catch" block for "write".(Ã«ö
+9squid:S1989"$Add a "try/catch" block for "close".(„¸Ç§
+;squid:S1989"&Add a "try/catch" block for "valueOf".(–ÅøÊ
+@squid:S1989"&Add a "try/catch" block for "valueOf".(¾ßˆúÿÿÿÿ
+@squid:S1989"+Add a "try/catch" block for "sendRedirect".(ò¨ëë
+=squid:S1989"(Add a "try/catch" block for "parseLong".(ÚÜÖ
+;squid:S1989"&Add a "try/catch" block for "forward".(ãìÄ
+;squid:S1989"&Add a "try/catch" block for "forward".(ãìÄ
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(îÍÇ‹şÿÿÿÿ
+\squid:S2259"BNullPointerException might be thrown as 'student' is nullable here(Ê§ªõùÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(É®£
+:squid:S1166"%Either log or rethrow this exception.(É®£
+:squid:S1166"%Either log or rethrow this exception.(É®£
+:squid:S1166"%Either log or rethrow this exception.(É®£
+:squid:S1166"%Either log or rethrow this exception.(É®£
+:squid:S1166"%Either log or rethrow this exception.(É®£
+Msquid:S1854"8Remove this useless assignment to local variable "read".(ŒŒÿÔ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

@@ -1,0 +1,32 @@
+
+=squid:S1989"(Add a "try/catch" block for "parseLong".(ÁºÊß
+Gsquid:S1948"-Make "disciplines" transient or serializable.(ãÒëûÿÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(ßÈ´
+msquid:S2226"YRemove this misleading mutable servlet instance fields or make it "static" and/or "final"(¾§‹
+@squid:S1989"+Add a "try/catch" block for "sendRedirect".(ò¨ëë
+;squid:S1989"&Add a "try/catch" block for "forward".(ãìÄ
+:squid:S1166"%Either log or rethrow this exception.(É®£
+Dsquid:S1948"*Make "students" transient or serializable.(·ÄÍ›üÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ó˜±
+;squid:S1989"&Add a "try/catch" block for "forward".(ãìÄ
+ssquid:S2226"YRemove this misleading mutable servlet instance fields or make it "static" and/or "final"(·ÄÍ›üÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(É®£
+@squid:S1989"&Add a "try/catch" block for "valueOf".(Ñ©š‡ûÿÿÿÿ
+Osquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿
+:squid:S1166"%Either log or rethrow this exception.(É®£
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Bsquid:S1989"(Add a "try/catch" block for "parseLong".(°§ÆÁüÿÿÿÿ
+Tsquid:S1161":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ
+Dsquid:S1989"*Add a "try/catch" block for "parseDouble".(š“ßüÿÿÿÿ
+<squid:S1948"(Make "groups" transient or serializable.(¾§‹
+ssquid:S2226"YRemove this misleading mutable servlet instance fields or make it "static" and/or "final"(ãÒëûÿÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ñöß™
+ssquid:S2226"YRemove this misleading mutable servlet instance fields or make it "static" and/or "final"(Ùßğåøÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Fsquid:S1948",Make "studentDao" transient or serializable.(Ùßğåøÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
