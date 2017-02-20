@@ -1,7 +1,6 @@
 com\practica\domain\Student.class
 com\practica\domain\Address.class
 com\practica\domain\Phone.class
-com\practica\controller\test.class
 com\practica\domain\LibrarySubscription.class
 com\practica\dao\PhoneDao.class
 com\practica\dao\DisciplineDao.class

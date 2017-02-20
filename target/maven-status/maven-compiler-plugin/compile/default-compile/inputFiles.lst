@@ -3,15 +3,17 @@ C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\doma
 C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\domain\Phone.java
 C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\dao\LibrarySubscriptionDao.java
 C:\Users\student\IdeaProjects\university-manager\src\main\java\connections\Settings.java
+C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\controller\SearchController.java
 C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\controller\StudentController.java
 C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\dao\AddressDao.java
 C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\dao\GroupDao.java
 C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\domain\Professor.java
+C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\services\Search.java
 C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\domain\PhoneType.java
 C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\domain\Student.java
+C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\form\SearchForm.java
 C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\controller\editStudent.java
 C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\dao\DisciplineDao.java
-C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\controller\test.java
 C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\domain\Discipline.java
 C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\domain\Group.java
 C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\controller\addStudentController.java
@@ -26,4 +28,3 @@ C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\dao\
 C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\controller\editLibrarystatus.java
 C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\domain\Person.java
 C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\domain\Mark.java
-C:\Users\student\IdeaProjects\university-manager\src\main\java\com\practica\dao\DisciplineAverageDao.java
