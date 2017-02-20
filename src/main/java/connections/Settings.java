@@ -16,8 +16,8 @@ public class Settings {
 
     public static Connection getConnection() throws SQLException {
         if (connection == null) {
-            connection = DriverManager.getConnection("jdbc:postgresql://127.0.0.1:5432/practica",
-                    "postgres", "andrei123");
+            connection = DriverManager.getConnection("jdbc:postgresql://ec2-54-195-248-0.eu-west-1.compute.amazonaws.com:5432/ddtemravmfggd0?ssl=true&sslfactory=org.postgresql.ssl.NonValidatingFactory",
+                    "lsolmhwrrmrtrf", "d22b4084b63e6bda2b69f3ccf32cc74ec3d0ecb9eca952511cec343561a57ee5");
         }
         return connection;
     }
