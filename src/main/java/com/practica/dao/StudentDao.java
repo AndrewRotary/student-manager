@@ -9,8 +9,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collectors;
 
 /**
@@ -71,21 +70,40 @@ public class StudentDao {
 
     public List<Student> getAllStudentsBySearch(SearchForm searchForm) throws SQLException {
         List<Student> students = new ArrayList<Student>();
-        String name = "";
-
         List<String> whereConditions = new ArrayList<String>();
+        Set<String> joinCondition = new HashSet<String>();
         if (StringUtils.isNotEmpty(searchForm.getName())) {
-            name = "person.first_name LIKE '" + searchForm.getName() + "%' or person.last_name LIKE '" + searchForm.getName() + "%'";
-            whereConditions.add("first_name LIKE '" + name + "'");
-
+            whereConditions.add("( person.first_name LIKE '" + searchForm.getName() + "%' or person.last_name LIKE '" + searchForm.getName() + "%')");
+        }
+        if (searchForm.getBirthDate() != null && searchForm.getEndDate() != null) {
+            whereConditions.add("( person.dob between '" + searchForm.getBirthDate() + "' and '" + searchForm.getEndDate() + "')");
+        }
+        if (StringUtils.isNotEmpty(searchForm.getAddress())) {
+            joinCondition.add("inner JOIN address on person.id_address = address.id_address");
+            whereConditions.add("address.address LIKE '" + searchForm.getAddress() + "%'");
+        }
+        if (StringUtils.isNotEmpty(searchForm.getGender())) {
+            whereConditions.add("person.gender LIKE '" + searchForm.getGender() + "%'");
         }
 
-//        if()
+        if (searchForm.getGroupId() > 0) {
+            joinCondition.add("inner JOIN groupp on groupp.id_group = student.id_group");
+            whereConditions.add("groupp.id_group = " + searchForm.getGroupId() + "");
+        }
+        if (searchForm.getDisciplineId() > 0) {
+            joinCondition.add("Inner join mark on mark.id_student = student.id_student inner join discipline on mark.id_discipline = discipline.id_discipline");
+            whereConditions.add("discipline.id_discipline = " + searchForm.getDisciplineId() + " ");
+        }
+
+        if (searchForm.getTotalAverage() > 0) {
+            joinCondition.add("inner JOin avg_semester on avg_semester.id_student = student.id_student ");
+            whereConditions.add(" avg_semester.avg >= " + searchForm.getTotalAverage() + " ");
+        }
 
         String whereClause = whereConditions.stream().collect(Collectors.joining(" AND "));
-//        System.out.println(whereConditions);
+        String joinClause = joinCondition.stream().collect(Collectors.joining(" "));
 
-        preparedStatement = Settings.getConnection().prepareStatement("Select * from student inner JOIN person on  student.id_student = person.id_student WHERE " + name);
+        preparedStatement = Settings.getConnection().prepareStatement("Select distinct ON (student.id_student) * from student inner JOIN person on student.id_student = person.id_student "+ joinClause +" WHERE " + whereClause);
         ResultSet rs = preparedStatement.executeQuery();
         while (rs.next()) {
             Student student = new Student();

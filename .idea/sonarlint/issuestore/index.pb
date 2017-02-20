@@ -1,25 +1,8 @@
 
-f
-6src\main\java\com\practica\controller\editStudent.java,d\8\d8aeed07e0b26c31379ade1c00759d190ff5e0cd
-_
-/src\main\java\com\practica\form\SearchForm.java,3\e\3e070295cec82cd999f46ee5c6ca1f039e321f6b
-k
-;src\main\java\com\practica\controller\SearchController.java,0\5\05bb814b6deb47d3e599fd044357d7fe48797bf6
-\
-,src\main\java\com\practica\dao\GroupDao.java,7\e\7e706691de1e1d81792ba1d5311b5fc08460d689
-]
--src\main\java\com\practica\dao\PersonDao.java,c\d\cd954bee9c9e39b829ea6d9945daca904affbe60
-X
-(src\main\webapp\resources\css\custom.css,8\c\8ce6f8f38b29d1155b74fda1ebe9436a011d866a
-l
-<src\main\java\com\practica\controller\StudentController.java,1\d\1ddf10160ff9e81b95eddc407633f5638ab38901
-F
-university-manager.iml,7\3\73bd7666fa9f0af808632c19624b6ebbd0cf304d
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-O
-src\main\webapp\studentList.jsp,6\4\64ea16a0476ec72b0d1c9ddfeeb73d1bd60df796
-c
-3.idea\artifacts\university_manager_war_exploded.xml,e\1\e14df344a6c259f1fae66432e07c86e24c157b98
-^
-.src\main\java\com\practica\dao\StudentDao.java,9\d\9d271054dd1539212ae489f1ffc02f5b61bf5abf
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+F
+university-manager.iml,7\3\73bd7666fa9f0af808632c19624b6ebbd0cf304d

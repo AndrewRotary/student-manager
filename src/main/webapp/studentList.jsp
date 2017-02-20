@@ -43,17 +43,17 @@
                 <label for="" class="mt-41">Gender: </label>
                  <input type="radio" CLASS="radio" id="radio" name="gender" value="Male"> Male
                 <input type="radio" CLASS="radio" id="radio" name="gender" value="Female"> Female
-                <input type="radio" CLASS="radio" id="radio" name="gender" value="All"> All
+                <input type="radio" CLASS="radio" id="radio" name="gender" value="" checked> All
             </div>
             <a href="${pageContext.request.contextPath}/StudentController" class="btn-student mt-25">Reset</a>
         </div>
         <div class="col-xs-6">
             <div class="form-group ">
-                <label>Date of Birth: </label> <input class="input-student form-control" type="date" path="person.dob" name="dob"
+                <label>Date of Birth: </label> <input class="input-student form-control" type="date" path="person.dob" name="dobStart"
                                                       value=""/>
             </div>
             <div class="form-group ">
-                <label>End Date </label> <input class="input-student form-control" type="date" path="person.dob" name="dob"
+                <label>End Date </label> <input class="input-student form-control" type="date" path="person.dob" name="dobEnd"
                                                 value=""/>
             </div>
             <div class="form-group">

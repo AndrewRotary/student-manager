@@ -9,9 +9,11 @@ public class SearchForm {
     private String name;
     private String address;
     private Date birthDate;
+    private Date endDate;
     private long groupId;
     private long disciplineId;
     private double totalAverage;
+    private String gender;
 
     public String getName() {
         return name;
@@ -59,5 +61,21 @@ public class SearchForm {
 
     public void setTotalAverage(double totalAverage) {
         this.totalAverage = totalAverage;
+    }
+
+    public String getGender() {
+        return gender;
+    }
+
+    public void setGender(String gender) {
+        this.gender = gender;
+    }
+
+    public Date getEndDate() {
+        return endDate;
+    }
+
+    public void setEndDate(Date endDate) {
+        this.endDate = endDate;
     }
 }

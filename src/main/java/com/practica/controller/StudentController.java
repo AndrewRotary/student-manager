@@ -49,7 +49,6 @@ public class StudentController extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         GroupDao groupDao = new GroupDao();
         DisciplineDao disciplineDao = new DisciplineDao();
-
         try {
             if (request.getParameter("search") != null) {
                 SearchForm searchForm = new SearchForm();
@@ -57,8 +56,12 @@ public class StudentController extends HttpServlet {
                     searchForm.setName(request.getParameter("lastName"));
                 }
                 searchForm.setAddress(request.getParameter("address"));
-                if (!request.getParameter("dob").isEmpty()) {
-                    searchForm.setBirthDate(Date.valueOf(request.getParameter("dob")));
+                if (!request.getParameter("dobStart").isEmpty() && !request.getParameter("dobEnd").isEmpty()) {
+                    searchForm.setBirthDate(Date.valueOf(request.getParameter("dobStart")));
+                    searchForm.setEndDate(Date.valueOf(request.getParameter("dobEnd")));
+                }
+                if (!request.getParameter("gender").isEmpty()) {
+                    searchForm.setGender(request.getParameter("gender"));
                 }
                 if (request.getParameter("discipline") != null) {
                     searchForm.setDisciplineId(Long.parseLong(request.getParameter("discipline")));
@@ -69,13 +72,19 @@ public class StudentController extends HttpServlet {
                 if (!request.getParameter("average").isEmpty()) {
                     searchForm.setTotalAverage(Double.parseDouble(request.getParameter("average")));
                 }
+
                 students = studentDao.getAllStudentsBySearch(searchForm);
                 System.out.println("working");
             } else {
                 students = studentDao.getAllStudents();
             }
         } catch (SQLException e) {
-            e.printStackTrace();
+//            e.printStackTrace();
+            try {
+                students = studentDao.getAllStudents();
+            } catch (SQLException e1) {
+                e1.printStackTrace();
+            }
         }
         try {
             groups = groupDao.getAll();

@@ -2,18 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acb3aa39-bf78-4334-bb4f-60fbc5e02f14" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/practica/controller/StudentController.class" afterPath="$PROJECT_DIR$/target/classes/com/practica/controller/StudentController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/practica/dao/StudentDao.class" afterPath="$PROJECT_DIR$/target/classes/com/practica/dao/StudentDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/controller/StudentController.class" afterPath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/controller/StudentController.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/practica/dao/StudentDao.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/practica/controller/StudentController.class" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/practica/controller/StudentController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/practica/dao/StudentDao.class" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/practica/dao/StudentDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/target/university-manager/WEB-INF/classes/com/practica/controller/StudentController.class" afterPath="$PROJECT_DIR$/../student-manager/target/university-manager/WEB-INF/classes/com/practica/controller/StudentController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/target/university-manager/WEB-INF/classes/com/practica/dao/StudentDao.class" afterPath="$PROJECT_DIR$/../student-manager/target/university-manager/WEB-INF/classes/com/practica/dao/StudentDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/practica/dao/AddressDao.class" afterPath="$PROJECT_DIR$/target/classes/com/practica/dao/AddressDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/dao/AddressDao.class" afterPath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/dao/AddressDao.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/dao/StudentDao.class" afterPath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/dao/StudentDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/university_manager_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/university_manager_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/.idea/artifacts/university_manager_war_exploded.xml" afterPath="$PROJECT_DIR$/../student-manager/.idea/artifacts/university_manager_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../student-manager/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/pom.xml" afterPath="$PROJECT_DIR$/../student-manager/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/practica/controller/StudentController.java" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/practica/controller/StudentController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/practica/dao/StudentDao.java" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/practica/dao/StudentDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/src/main/webapp/studentList.jsp" afterPath="$PROJECT_DIR$/../student-manager/src/main/webapp/studentList.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/target/university-manager/studentList.jsp" afterPath="$PROJECT_DIR$/../student-manager/target/university-manager/studentList.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/university-manager.iml" afterPath="$PROJECT_DIR$/../student-manager/university-manager.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/practica/controller/StudentController.java" afterPath="$PROJECT_DIR$/src/main/java/com/practica/controller/StudentController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/practica/dao/AddressDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/practica/dao/AddressDao.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/practica/dao/StudentDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/practica/dao/StudentDao.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/studentList.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/studentList.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/university-manager/studentList.jsp" afterPath="$PROJECT_DIR$/target/university-manager/studentList.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/university-manager.iml" afterPath="$PROJECT_DIR$/university-manager.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,77 +55,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="editStudent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/controller/editStudent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="72" column="22" lean-forward="false" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StudentController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/controller/StudentController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+            <state relative-caret-position="1037">
+              <caret line="78" column="26" lean-forward="false" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentDao.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StudentDao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/dao/StudentDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="104" column="37" lean-forward="true" selection-start-line="104" selection-start-column="37" selection-end-line="104" selection-end-column="37" />
+            <state relative-caret-position="232">
+              <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1487343528467" expanded="true" signature="998:1100" ph="Select * fro... student" />
-                <marker date="1487343528467" expanded="true" signature="2291:2361" ph="UPDATE stude... " />
-                <marker date="1487343528467" expanded="true" signature="2291:2386" ph="UPDATE stude... " />
-                <marker date="1487343528467" expanded="true" signature="2852:2902" ph="UPDATE stude... " />
-                <marker date="1487343528467" expanded="true" signature="3802:3884" ph="Select * fro... student" />
-                <marker date="1487343528467" expanded="true" signature="3802:3891" ph="Select * fro... student" />
-                <marker date="1487343528467" expanded="true" signature="5256:5331" ph="Select * fro... student" />
-                <marker date="1487343528467" expanded="true" signature="6651:6743" ph="Insert into student... " />
+                <element signature="e#3291#3299#0" expanded="true" />
+                <marker date="1487583410588" expanded="true" signature="967:1069" ph="Select * fro... student" />
+                <marker date="1487583410588" expanded="true" signature="2260:2330" ph="UPDATE stude... " />
+                <marker date="1487583410588" expanded="true" signature="2260:2355" ph="UPDATE stude... " />
+                <marker date="1487583410588" expanded="true" signature="2821:2871" ph="UPDATE stude... " />
+                <marker date="1487583410588" expanded="true" signature="5232:5346" ph="Select * fro... student" />
+                <marker date="1487583410588" expanded="true" signature="5232:5347" ph="Select * fro... student" />
+                <marker date="1487583410588" expanded="true" signature="5232:5370" ph="Select * fro... student" />
+                <marker date="1487583410588" expanded="true" signature="6742:6817" ph="Select * fro... student" />
+                <marker date="1487583410588" expanded="true" signature="8137:8229" ph="Insert into student... " />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchForm.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/form/SearchForm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="23" />
-              <folding>
-                <element signature="e#1082#1083#0" expanded="true" />
-                <element signature="e#1117#1118#0" expanded="true" />
-                <element signature="e#1173#1174#0" expanded="true" />
-                <element signature="e#1221#1222#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/controller/SearchController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="64" column="2" lean-forward="false" selection-start-line="64" selection-start-column="2" selection-end-line="68" selection-end-column="17" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -124,48 +90,8 @@
       <file leaf-file-name="studentList.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/studentList.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="47" column="17" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GroupDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/dao/GroupDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="22" column="11" lean-forward="false" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-              <folding>
-                <marker date="1487323521815" expanded="true" signature="580:600" ph="Select * fro... groupp" />
-                <marker date="1487323521815" expanded="true" signature="1135:1174" ph="Select * fro... groupp" />
-                <marker date="1487323521815" expanded="true" signature="1568:1603" ph="Insert into groupp... " />
-                <marker date="1487323521815" expanded="true" signature="2031:2077" ph="UPDATE group... " />
-                <marker date="1487323521815" expanded="true" signature="2398:2436" ph="DELETE FROM " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersonDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/dao/PersonDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1241">
-              <caret line="82" column="150" lean-forward="false" selection-start-line="82" selection-start-column="150" selection-end-line="82" selection-end-column="150" />
-              <folding>
-                <marker date="1487323488149" expanded="true" signature="1000:1148" ph="Insert into person... " />
-                <marker date="1487323488149" expanded="true" signature="2673:2779" ph="UPDATE perso... " />
-                <marker date="1487323488149" expanded="true" signature="3753:3855" ph="Select * fro... student" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2125">
-              <caret line="125" column="21" lean-forward="false" selection-start-line="125" selection-start-column="21" selection-end-line="125" selection-end-column="21" />
+            <state relative-caret-position="306">
+              <caret line="45" column="91" lean-forward="false" selection-start-line="45" selection-start-column="84" selection-end-line="45" selection-end-column="91" />
               <folding />
             </state>
           </provider>
@@ -232,14 +158,12 @@
         <option value="$PROJECT_DIR$/src/main/webapp/editLibrarystatus.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/addMark.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/addStudent.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/editstudent.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/practica/domain/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practica/dao/DisciplineDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practica/dao/GroupDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practica/dao/MarksDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practica/dao/LibrarySubscriptionDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practica/controller/editLibrarystatus.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/practica/dao/AddressDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practica/dao/PersonDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practica/controller/addMark.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practica/controller/addStudentController.java" />
@@ -249,10 +173,12 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/practica/controller/SearchController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/editstudent.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/practica/dao/AddressDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practica/form/SearchForm.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/practica/controller/StudentController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/studentList.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/practica/dao/StudentDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/studentList.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/practica/controller/StudentController.java" />
       </list>
     </option>
   </component>
@@ -271,6 +197,20 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="university-manager Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
       <PATH>
         <PATH_ELEMENT>
           <option name="myItemId" value="" />
@@ -338,8 +278,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -577,7 +517,6 @@
     <property name="SearchEverywhereHistoryKey" value="rebe&#9;FILE&#9;file://C:/Users/student/IdeaProjects/university-manager/src/main/resources/rebel.xml" />
     <property name="SONARLINT_ISSUES_SPLIT_PROPORTION" value="0.4472868" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -2009,8 +1948,9 @@
       <workItem from="1487225570609" duration="1384000" />
       <workItem from="1487227003829" duration="25484000" />
       <workItem from="1487311967124" duration="582000" />
-      <workItem from="1487312589265" duration="24536000" />
-      <workItem from="1487570854989" duration="191000" />
+      <workItem from="1487312589265" duration="24640000" />
+      <workItem from="1487570551728" duration="269000" />
+      <workItem from="1487571050629" duration="14449000" />
     </task>
     <task id="LOCAL-00001" summary="Search implemented">
       <created>1487343575271</created>
@@ -2019,21 +1959,7 @@
       <option name="project" value="LOCAL" />
       <updated>1487343575271</updated>
     </task>
-    <task id="LOCAL-00002" summary="Search implemented">
-      <created>1487570936933</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1487570936934</updated>
-    </task>
-    <task id="LOCAL-00003" summary="test push">
-      <created>1487571024471</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1487571024471</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -2045,7 +1971,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="215581000" />
+    <option name="totallyTimeSpent" value="230212000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2057,16 +1983,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5724947" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32575756" sideWeight="0.6641791" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.49573562" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5724947" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19296375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.48294243" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.48294243" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2076,14 +2002,15 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4090909" sideWeight="0.40938166" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32467532" sideWeight="0.33582088" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34236187" sideWeight="0.5079957" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.42750534" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.49573562" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2803838" sideWeight="0.6864865" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2835821" sideWeight="0.6864865" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35127932" sideWeight="0.3118971" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35127932" sideWeight="0.31351352" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.8534115" order="9" side_tool="false" content_ui="tabs" />
@@ -2094,7 +2021,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32575756" sideWeight="0.33582088" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.49791667" order="1" side_tool="false" content_ui="tabs" />
@@ -2108,13 +2034,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Search implemented" />
-    <MESSAGE value="test push" />
-    <option name="LAST_COMMIT_MESSAGE" value="test push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Search implemented" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="162" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practica/dao/StudentDao.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practica/dao/StudentDao.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="168" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JettyConfiguration">
@@ -2296,6 +2235,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2327,7 +2267,7 @@
         <state relative-caret-position="260">
           <caret line="37" column="30" lean-forward="false" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
           <folding>
-            <element signature="e#1286#1298#0" expanded="true" />
+            <element signature="e#1286#1298#0" expanded="false" />
             <marker date="1487323521651" expanded="true" signature="609:657" ph="Select * fro... discipline" />
             <marker date="1487323521651" expanded="true" signature="1144:1168" ph="Select * fro... discipline" />
           </folding>
@@ -2338,33 +2278,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/dao/MarksDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="31" column="47" lean-forward="false" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
           <folding>
-            <marker date="1487323521746" expanded="true" signature="631:667" ph="Select * fro... mark" />
-            <marker date="1487323521746" expanded="true" signature="1275:1293" ph="Select * fro... mark" />
-            <marker date="1487323521746" expanded="true" signature="2208:2232" ph="Select * fro... mark" />
-            <marker date="1487323521746" expanded="true" signature="2208:2247" ph="Select * fro... mark" />
-            <marker date="1487323521746" expanded="true" signature="3191:3238" ph="Select * fro... average_mark" />
-            <marker date="1487323521746" expanded="true" signature="4162:4262" ph="Insert into mark... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/dao/LibrarySubscriptionDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="55" column="4" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="59" selection-end-column="21" />
-          <folding>
-            <marker date="1487323445467" expanded="true" signature="754:788" ph="Select * fro... library_subscription" />
-            <marker date="1487323445467" expanded="true" signature="1615:1722" ph="UPDATE libra... " />
-            <marker date="1487323445467" expanded="true" signature="2276:2355" ph="Insert into library_subscription... " />
-            <marker date="1487323445467" expanded="true" signature="3049:3117" ph="Select * fro... library_subscription" />
+            <element signature="e#330#331#0" expanded="false" />
+            <element signature="e#366#367#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2378,20 +2294,6 @@
             <marker date="1487323444806" expanded="true" signature="1209:1249" ph="Select * fro... phone" />
             <marker date="1487323444806" expanded="true" signature="1982:2047" ph="Insert into phone... " />
             <marker date="1487323444806" expanded="true" signature="2649:2712" ph="UPDATE phone... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/dao/AddressDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
-          <folding>
-            <marker date="1487323473880" expanded="true" signature="642:663" ph="Select * fro... address" />
-            <marker date="1487323473880" expanded="true" signature="1295:1337" ph="Select * fro... address" />
-            <marker date="1487323473880" expanded="true" signature="1849:1909" ph="Insert into address... " />
-            <marker date="1487323473880" expanded="true" signature="2466:2541" ph="UPDATE addre... " />
-            <marker date="1487323473880" expanded="true" signature="2957:2998" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
@@ -2412,16 +2314,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/controller/addStudentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding>
-            <element signature="e#2904#2911#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/services/Search.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -2429,24 +2321,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/editstudent.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="92" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/addStudent.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="18" column="147" lean-forward="false" selection-start-line="18" selection-start-column="147" selection-end-line="18" selection-end-column="147" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/addMark.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="41" column="3" lean-forward="false" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="67" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2454,7 +2333,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2125">
           <caret line="125" column="21" lean-forward="false" selection-start-line="125" selection-start-column="21" selection-end-line="125" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2463,6 +2341,7 @@
         <state relative-caret-position="238">
           <caret line="22" column="11" lean-forward="false" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
           <folding>
+            <element signature="e#708#715#0" expanded="false" />
             <marker date="1487323521815" expanded="true" signature="580:600" ph="Select * fro... groupp" />
             <marker date="1487323521815" expanded="true" signature="1135:1174" ph="Select * fro... groupp" />
             <marker date="1487323521815" expanded="true" signature="1568:1603" ph="Insert into groupp... " />
@@ -2495,6 +2374,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2502,14 +2382,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
           <caret line="64" column="2" lean-forward="false" selection-start-line="64" selection-start-column="2" selection-end-line="68" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/controller/editStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="72" column="22" lean-forward="false" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -2522,50 +2394,133 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/form/SearchForm.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/dao/LibrarySubscriptionDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="782">
+          <caret line="55" column="4" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="59" selection-end-column="21" />
           <folding>
-            <element signature="e#1082#1083#0" expanded="true" />
-            <element signature="e#1117#1118#0" expanded="true" />
-            <element signature="e#1173#1174#0" expanded="true" />
-            <element signature="e#1221#1222#0" expanded="true" />
+            <marker date="1487323445467" expanded="true" signature="754:788" ph="Select * fro... library_subscription" />
+            <marker date="1487323445467" expanded="true" signature="1615:1722" ph="UPDATE libra... " />
+            <marker date="1487323445467" expanded="true" signature="2276:2355" ph="Insert into library_subscription... " />
+            <marker date="1487323445467" expanded="true" signature="3049:3117" ph="Select * fro... library_subscription" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/controller/StudentController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/addStudent.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        <state relative-caret-position="415">
+          <caret line="43" column="129" lean-forward="false" selection-start-line="43" selection-start-column="122" selection-end-line="43" selection-end-column="129" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/controller/addStudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="33" column="56" lean-forward="false" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="56" />
+          <folding>
+            <element signature="e#2904#2911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/controller/editStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="35" column="56" lean-forward="false" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/dao/AddressDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="70" column="59" lean-forward="false" selection-start-line="70" selection-start-column="59" selection-end-line="70" selection-end-column="59" />
+          <folding>
+            <marker date="1487576766387" expanded="true" signature="642:663" ph="Select * fro... address" />
+            <marker date="1487576766387" expanded="true" signature="1295:1337" ph="Select * fro... address" />
+            <marker date="1487576766387" expanded="true" signature="1849:1909" ph="Insert into address... " />
+            <marker date="1487576766387" expanded="true" signature="2466:2541" ph="UPDATE addre... " />
+            <marker date="1487576766387" expanded="true" signature="2960:3001" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/editstudent.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="50" column="94" lean-forward="false" selection-start-line="50" selection-start-column="94" selection-end-line="50" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/dao/MarksDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-271">
+          <caret line="31" column="47" lean-forward="false" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+          <folding>
+            <marker date="1487323521746" expanded="true" signature="631:667" ph="Select * fro... mark" />
+            <marker date="1487323521746" expanded="true" signature="1275:1293" ph="Select * fro... mark" />
+            <marker date="1487323521746" expanded="true" signature="2208:2232" ph="Select * fro... mark" />
+            <marker date="1487323521746" expanded="true" signature="2208:2247" ph="Select * fro... mark" />
+            <marker date="1487323521746" expanded="true" signature="3191:3238" ph="Select * fro... average_mark" />
+            <marker date="1487323521746" expanded="true" signature="4162:4262" ph="Insert into mark... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/form/SearchForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="73" column="30" lean-forward="false" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
+          <folding>
+            <element signature="e#1307#1308#0" expanded="true" />
+            <element signature="e#1336#1337#0" expanded="true" />
+            <element signature="e#1380#1381#0" expanded="true" />
+            <element signature="e#1416#1417#0" expanded="true" />
+            <element signature="e#1478#1479#0" expanded="true" />
+            <element signature="e#1522#1523#0" expanded="true" />
+            <element signature="e#1560#1561#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/studentList.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="17" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="74" />
+        <state relative-caret-position="306">
+          <caret line="45" column="91" lean-forward="false" selection-start-line="45" selection-start-column="84" selection-end-line="45" selection-end-column="91" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/dao/StudentDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="104" column="37" lean-forward="true" selection-start-line="104" selection-start-column="37" selection-end-line="104" selection-end-column="37" />
+        <state relative-caret-position="232">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1487343528467" expanded="true" signature="998:1100" ph="Select * fro... student" />
-            <marker date="1487343528467" expanded="true" signature="2291:2361" ph="UPDATE stude... " />
-            <marker date="1487343528467" expanded="true" signature="2291:2386" ph="UPDATE stude... " />
-            <marker date="1487343528467" expanded="true" signature="2852:2902" ph="UPDATE stude... " />
-            <marker date="1487343528467" expanded="true" signature="3802:3884" ph="Select * fro... student" />
-            <marker date="1487343528467" expanded="true" signature="3802:3891" ph="Select * fro... student" />
-            <marker date="1487343528467" expanded="true" signature="5256:5331" ph="Select * fro... student" />
-            <marker date="1487343528467" expanded="true" signature="6651:6743" ph="Insert into student... " />
+            <element signature="e#3291#3299#0" expanded="true" />
+            <marker date="1487583410588" expanded="true" signature="967:1069" ph="Select * fro... student" />
+            <marker date="1487583410588" expanded="true" signature="2260:2330" ph="UPDATE stude... " />
+            <marker date="1487583410588" expanded="true" signature="2260:2355" ph="UPDATE stude... " />
+            <marker date="1487583410588" expanded="true" signature="2821:2871" ph="UPDATE stude... " />
+            <marker date="1487583410588" expanded="true" signature="5232:5346" ph="Select * fro... student" />
+            <marker date="1487583410588" expanded="true" signature="5232:5347" ph="Select * fro... student" />
+            <marker date="1487583410588" expanded="true" signature="5232:5370" ph="Select * fro... student" />
+            <marker date="1487583410588" expanded="true" signature="6742:6817" ph="Select * fro... student" />
+            <marker date="1487583410588" expanded="true" signature="8137:8229" ph="Insert into student... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practica/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="78" column="26" lean-forward="false" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>

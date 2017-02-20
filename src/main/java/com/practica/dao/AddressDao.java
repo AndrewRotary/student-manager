@@ -27,8 +27,8 @@ public class AddressDao {
         addresses = new ArrayList<Address>(rs.getFetchSize());
         while (rs.next()) {
             Address adr = new Address();
-            adr.setCity(rs.getString("country"));
-            adr.setCountry(rs.getString("city"));
+            adr.setCity(rs.getString("city"));
+            adr.setCountry(rs.getString("country"));
             adr.setAddress(rs.getString("address"));
             adr.setId(rs.getLong("id"));
             addresses.add(adr);
@@ -68,7 +68,7 @@ public class AddressDao {
         preparedStatement = Settings.getConnection().prepareStatement("UPDATE address set country = ?, city = ?, address = ? WHERE  id_address = ?;");
         preparedStatement.setString(1, address.getCountry());
         preparedStatement.setString(2, address.getCity());
-        preparedStatement.setString(3, address.getCity());
+        preparedStatement.setString(3, address.getAddress());
         preparedStatement.setDouble(4, address.getId());
         preparedStatement.executeUpdate();
     }
