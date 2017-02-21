@@ -8,6 +8,80 @@
   <component name="ChangeListManager">
     <list default="true" id="acb3aa39-bf78-4334-bb4f-60fbc5e02f14" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/Procfile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/controller/StudentController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/controller/addMark.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/controller/addStudentController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/controller/editLibrarystatus.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/controller/editStudent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/dao/AddressDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/dao/DisciplineDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/dao/GroupDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/dao/LibrarySubscriptionDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/dao/MarksDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/dao/PersonDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/dao/PhoneDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/dao/ProfessorDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/dao/StudentDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/domain/Address.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/domain/Discipline.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/domain/DisciplineAverage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/domain/Group.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/domain/LibrarySubscription.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/domain/Mark.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/domain/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/domain/Phone.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/domain/PhoneType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/domain/Professor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/domain/Status.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/domain/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/com/practica/services/Search.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/connections/Settings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/rebel.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/lib/commons-fileupload-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/lib/commons-io-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/lib/ejb-api-3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/lib/javax.el-api-3.0.1-b04.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/lib/javax.servlet-api-4.0.0-b01.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/lib/postgresql-9.4.1212.jre7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/lib/standard-1.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/view/themplate/header.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/addMark.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/addStudent.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/editLibrarystatus.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/editstudent.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/css/custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/images/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/images/220.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/images/24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/images/26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/images/27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/images/29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/images/30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/images/31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/images/422.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/images/520.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/images/548.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/images/616.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/images/670.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/images/685.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/images/735.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/images/872.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/resources/js/jquery-3.1.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/university-manager/studentList.jsp" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/practica/controller/StudentController.class" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/practica/controller/StudentController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/practica/dao/AddressDao.class" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/practica/dao/AddressDao.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/practica/dao/StudentDao.class" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/practica/dao/StudentDao.class" />
@@ -18,8 +92,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/target/university-manager/WEB-INF/classes/com/practica/dao/StudentDao.class" afterPath="$PROJECT_DIR$/../student-manager/target/university-manager/WEB-INF/classes/com/practica/dao/StudentDao.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/target/university-manager/WEB-INF/classes/connections/Settings.class" afterPath="$PROJECT_DIR$/../student-manager/target/university-manager/WEB-INF/classes/connections/Settings.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/connections/Settings.class" afterPath="$PROJECT_DIR$/target/classes/connections/Settings.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/university-manager.war" afterPath="$PROJECT_DIR$/target/university-manager.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/connections/Settings.class" afterPath="$PROJECT_DIR$/target/university-manager/WEB-INF/classes/connections/Settings.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/.idea/artifacts/university_manager_war.xml" afterPath="$PROJECT_DIR$/../student-manager/.idea/artifacts/university_manager_war.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/.idea/artifacts/university_manager_war_exploded.xml" afterPath="$PROJECT_DIR$/../student-manager/.idea/artifacts/university_manager_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../student-manager/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../student-manager/.idea/workspace.xml" />
@@ -40,10 +112,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/connections/Settings.java" afterPath="$PROJECT_DIR$/src/main/java/connections/Settings.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/university-manager/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/target/university-manager/META-INF/MANIFEST.MF" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/university-manager.iml" afterPath="$PROJECT_DIR$/university-manager.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -129,21 +200,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="103" column="14" lean-forward="false" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
+            <state relative-caret-position="1377">
+              <caret line="81" column="3" lean-forward="false" selection-start-line="81" selection-start-column="3" selection-end-line="103" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+            <state relative-caret-position="289">
+              <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -202,7 +273,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/editstudent.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/practica/dao/PhoneDao.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/addmark.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/practica/dao/ProfessorDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practica/dao/DisciplineAverageDao.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/themplate/header.jsp" />
@@ -232,6 +302,7 @@
         <option value="$PROJECT_DIR$/src/main/java/connections/Settings.java" />
         <option value="$PROJECT_DIR$/Procfile.txt" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
       </list>
     </option>
   </component>
@@ -352,20 +423,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="university-manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="university-manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="university-manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1821,7 +1878,7 @@
       <workItem from="1487570551728" duration="269000" />
       <workItem from="1487571050629" duration="17693000" />
       <workItem from="1487602682974" duration="690000" />
-      <workItem from="1487656814626" duration="5788000" />
+      <workItem from="1487656814626" duration="6569000" />
     </task>
     <task id="LOCAL-00001" summary="Search implemented">
       <created>1487343575271</created>
@@ -1842,7 +1899,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239934000" />
+    <option name="totallyTimeSpent" value="240715000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1855,14 +1912,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32575756" sideWeight="0.6641791" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.49573562" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19296375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19296375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.48294243" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1873,6 +1930,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4090909" sideWeight="0.40938166" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33549783" sideWeight="0.33582088" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
@@ -1891,7 +1949,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33549783" sideWeight="0.33582088" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.49791667" order="1" side_tool="false" content_ui="tabs" />
@@ -2370,18 +2427,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        <state relative-caret-position="1377">
+          <caret line="81" column="3" lean-forward="false" selection-start-line="81" selection-start-column="3" selection-end-line="103" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="103" column="14" lean-forward="false" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
+        <state relative-caret-position="289">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
           <folding />
         </state>
       </provider>
