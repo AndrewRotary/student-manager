@@ -5,8 +5,8 @@
   <artifactId>university-manager</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>university-manager Maven Webapp</name>
-  <url>http://maven.apache.org</url>
+
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -79,7 +79,6 @@
 
   <!--new-->
   <build>
-    <finalName>university-manager</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -92,10 +91,10 @@
             <configuration>
               <artifactItems>
                 <artifactItem>
-                  <groupId>org.eclipse.jetty</groupId>
-                  <artifactId>jetty-runner</artifactId>
-                  <version>9.3.3.v20150827</version>
-                  <destFileName>jetty-runner.jar</destFileName>
+                  <groupId>com.github.jsimone</groupId>
+                  <artifactId>webapp-runner</artifactId>
+                  <version>8.0.30.2</version>
+                  <destFileName>webapp-runner.jar</destFileName>
                 </artifactItem>
               </artifactItems>
             </configuration>

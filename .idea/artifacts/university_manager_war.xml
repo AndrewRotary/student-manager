@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="university-manager:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="university-manager.war">
+    <root id="archive" name="university-manager-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="university-manager:war exploded" />
     </root>
   </artifact>
