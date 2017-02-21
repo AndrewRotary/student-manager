@@ -1,5 +1,7 @@
 com\practica\domain\Student.class
 com\practica\domain\Address.class
+com\practica\form\SearchForm.class
+com\practica\controller\SearchController.class
 com\practica\domain\Phone.class
 com\practica\domain\LibrarySubscription.class
 com\practica\dao\PhoneDao.class
@@ -9,10 +11,12 @@ com\practica\domain\PhoneType.class
 com\practica\controller\editLibrarystatus.class
 com\practica\domain\Discipline.class
 com\practica\controller\addStudentController.class
+com\practica\dao\ProfessorDao.class
 connections\Settings.class
 com\practica\controller\StudentController.class
 com\practica\domain\Person.class
 com\practica\dao\GroupDao.class
+com\practica\controller\addMark.class
 com\practica\dao\AddressDao.class
 com\practica\dao\MarksDao.class
 com\practica\dao\PersonDao.class
@@ -23,3 +27,4 @@ com\practica\controller\editStudent.class
 com\practica\domain\DisciplineAverage.class
 com\practica\domain\Group.class
 com\practica\dao\LibrarySubscriptionDao.class
+com\practica\services\Search.class

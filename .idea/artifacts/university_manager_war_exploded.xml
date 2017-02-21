@@ -17,6 +17,37 @@
           <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.2" />
           <element id="library" level="project" name="Maven: commons-io:commons-io:2.5" />
           <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.5" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-runner:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-plus:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-webapp:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-xml:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-annotations:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: javax.annotation:javax.annotation-api:1.2" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm:5.1" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm-commons:5.1" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm-tree:5.1" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-jaas:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-security:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-server:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-server:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-common:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-api:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-io:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-client:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-client:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-servlet:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-servlet:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-http:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-jndi:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-util:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:apache-jsp:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty.toolchain:jetty-schemas:3.1" />
+          <element id="library" level="project" name="Maven: org.mortbay.jasper:apache-jsp:8.5.5" />
+          <element id="library" level="project" name="Maven: org.mortbay.jasper:apache-el:8.5.5" />
+          <element id="library" level="project" name="Maven: org.eclipse.jdt.core.compiler:ecj:4.4.2" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:apache-jstl:9.4.0.v20161208" />
+          <element id="library" level="project" name="Maven: org.apache.taglibs:taglibs-standard-spec:1.2.5" />
+          <element id="library" level="project" name="Maven: org.apache.taglibs:taglibs-standard-impl:1.2.5" />
         </element>
       </element>
       <element id="directory" name="META-INF">
