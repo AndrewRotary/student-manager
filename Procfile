@@ -1,2 +1,2 @@
 
- java -jar target/dependency/jetty-runner.jar target/university-manager.war
+web: java $JAVA_OPTS -jar target/dependency/jetty-runner.jar --port $PORT target/university-manager.war
