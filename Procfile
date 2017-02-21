@@ -1,2 +1,2 @@
 
- java -jar target/dependency/webapp-runner.jar target/university-manager.war
+ java -jar target/dependency/jetty-runner.jar target/university-manager.war
